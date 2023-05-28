@@ -8,7 +8,7 @@ also look into be the below sheet (Common Tasks section) for constraints and col
 <BR> Once completed post your github link in the updated_first_assesment section of the above sheet
 
 <BR> Note:
-1. Create a repository Sql_taskl in github to upload these 2 tasks
+1. Create a repository Sql_taskl in github to upload the codes 
 2. Copy and paste the code in notepad++ and upload in github in the name 1_SQL_table_creation as a file name inside the repository Sql_task1
 3. Perform the DML and DDL INTERVIEW operations discussed upon these tables you created  and upload the queries as 2_DML_DDL_Tasks inside the Sql_task1
   use this as a reference link: https://github.com/Analyticsavenue/SQL-Basics/blob/main/4_DDL_DML_Interview%20questions.sql
