@@ -11,7 +11,7 @@ also look into be the below sheet (Common Tasks section) for constarints and col
 
 <BR> Note:
 1. Create a repository Sql_taskl
-2. Upload the tables schema code and 50 insertion records queries for multiple customers at fifferent time period in last 6 months under the name 1_SQL_table_creation
-3 Perform the DML_DDL_INTERVIEW operations discussed upon these tables and upload the queries as 2_DML_DDL_Tasks
+2. Upload the tables schema code and 50 insertion records queries for multiple customers at different time period in last 6 months under the name 1_SQL_table_creation (file name inside the repository Sql_task1)
+3 Perform the DML and DDL INTERVIEW operations discussed upon these tables and upload the queries as 2_DML_DDL_Tasks inside the Sql_task1
 4. Once completed post your github link in the updated_first_assesment section
 
